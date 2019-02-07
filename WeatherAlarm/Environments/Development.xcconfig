@@ -1,0 +1,16 @@
+//
+//  Development.xcconfig
+//  WeatherAlarm
+//
+//  Created by Eduardo Nieto on 22/01/2019.
+//  Copyright © 2019 Eduardo Nieto. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+ENVIRONMENT_NAME=development
+APP_DISPLAY_NAME=Weathalarm-dev
+WEATHER_API_URL=https:\/\/api.openweathermap.org
+
